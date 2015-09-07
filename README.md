@@ -1,6 +1,6 @@
 # hello-world
 First repository
 
-That's all.
+Readme info.
 
 Added some text to readme in readme-edits branch.
